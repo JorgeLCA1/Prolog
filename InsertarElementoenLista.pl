@@ -6,7 +6,7 @@
 %              en C# para referencia.
 % ===============================================
 %using System;
-using System.Collections.Generic;
+%using System.Collections.Generic;
 
 %class Program
 %{
