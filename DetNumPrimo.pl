@@ -1,4 +1,4 @@
-% ===============================================
+v% ===============================================
 % Autor: Jorge Luis Castro
 % Fecha: 23 de octubre de 2024
 % Descripción: Programa en Prolog que Verifica si un número entero dado es primo.
@@ -13,7 +13,7 @@
 %{
 %    static void Main()
 %    {
-%        int numero = Console.; // Cambia este valor para probar otros números
+%        int numero = Console.ReadLine(); // Cambia este valor para probar otros números
 %        if (IsPrime(numero))
 %        {
 %            Console.WriteLine($"{numero} es primo.");
